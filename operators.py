@@ -1,0 +1,13 @@
+bala=23000
+sasi=15890
+print(bala+sasi)
+print(bala-sasi)
+print(bala*sasi)
+print(bala/sasi)
+vikram=3
+vedha=4
+print(vikram%vedha)
+print(vikram**vedha)
+mani=90
+basha=20
+print(mani//basha)
